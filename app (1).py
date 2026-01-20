@@ -109,7 +109,7 @@ model = joblib.load("student_report_model.pkl")
 # Header
 # ---------------------------
 st.markdown("<div class='fadeUp'>", unsafe_allow_html=True)
-st.title("🎓 Student Report Card & Pass/Fail Prediction System")
+st.title("🎓 Pass/Fail Prediction System")
 st.caption("Enter details → marks → generate a professional report card (with prediction).")
 st.markdown("</div>", unsafe_allow_html=True)
 
