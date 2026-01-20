@@ -140,12 +140,12 @@ with left:
     if standard == "10th":
         english = st.number_input("English", 0, 100)
         hindi = st.number_input("Hindi", 0, 100)
-        marathi = st.number_input("Marathi", 0, 100)
+        punjabi = st.number_input("Punjabi", 0, 100)
         maths = st.number_input("Mathematics", 0, 100)
         science = st.number_input("Science", 0, 100)
 
-        subjects = [english, hindi, marathi, maths, science]
-        subject_names = ["English", "Hindi", "Marathi", "Mathematics", "Science"]
+        subjects = [english, hindi, punjabi, maths, science]
+        subject_names = ["English", "Hindi", "punjabi", "Mathematics", "Science"]
 
     elif standard == "12th":
         physics = st.number_input("Physics", 0, 100)
