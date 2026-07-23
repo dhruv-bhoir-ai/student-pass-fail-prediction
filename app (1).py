@@ -125,8 +125,8 @@ with left:
     st.markdown("<div class='card fadeUp'>", unsafe_allow_html=True)
     st.subheader("🧾 Student Details")
 
-    name = st.text_input("👤 Student Name", placeholder="Eg: palak")
-    roll_no = st.text_input("🆔 Roll Number", placeholder="Eg: 24SCSE1430282")
+    name = st.text_input("👤 Student Name", placeholder="Eg: Dhruv")
+    roll_no = st.text_input("🆔 Roll Number", placeholder="Eg: 24SCSE1430013")
 
     colA, colB = st.columns(2)
     with colA:
