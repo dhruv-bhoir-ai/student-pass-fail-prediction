@@ -126,7 +126,7 @@ with left:
     st.subheader("🧾 Student Details")
 
     name = st.text_input("👤 Student Name", placeholder="Eg: Dhruv")
-    roll_no = st.text_input("🆔 Roll Number", placeholder="Eg: 24SCSE1430013")
+    roll_no = st.text_input("🆔 Roll Number", placeholder="Eg: 07")
 
     colA, colB = st.columns(2)
     with colA:
