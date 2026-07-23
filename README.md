@@ -124,7 +124,7 @@ student-pass-fail-prediction
 **Dhruv Bhoir**
 
 - GitHub: https://github.com/dhruv-bhoir-ai
-- LinkedIn: *(Add your LinkedIn profile link here after we finish your profile.)*
+- LinkedIn: https://www.linkedin.comnn/dhruv-bhoir-ai
 
 ---
 
