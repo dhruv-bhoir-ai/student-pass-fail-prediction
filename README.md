@@ -1,4 +1,4 @@
-# 🎓 Student Pass/Fail Prediction System
+# 🎓 Pass/Fail Prediction System
 
 A machine learning-based web application that generates professional student report cards and predicts whether a student will pass or fail using **Logistic Regression**. Built with **Python** and **Streamlit**, the application provides an interactive interface with live report previews and automatic result generation.
 
@@ -114,7 +114,7 @@ student-pass-fail-prediction
 - Export report cards as PDF
 - Store student records in a database
 - Add user authentication
-- Improve prediction accuracy with additional features
+- Store student records in a database
 - Support multiple grading systems
 
 ---
@@ -128,4 +128,4 @@ student-pass-fail-prediction
 
 ---
 
-⭐ If you found this project useful, consider giving it a star.
+⭐ Feel free to star this repository if you found it useful.
